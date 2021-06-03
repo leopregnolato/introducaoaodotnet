@@ -1,0 +1,13 @@
+/home/leonardo/workspace/Revisaodnet/bin/Debug/netcoreapp3.1/Revisaodnet
+/home/leonardo/workspace/Revisaodnet/bin/Debug/netcoreapp3.1/Revisaodnet.deps.json
+/home/leonardo/workspace/Revisaodnet/bin/Debug/netcoreapp3.1/Revisaodnet.runtimeconfig.json
+/home/leonardo/workspace/Revisaodnet/bin/Debug/netcoreapp3.1/Revisaodnet.runtimeconfig.dev.json
+/home/leonardo/workspace/Revisaodnet/bin/Debug/netcoreapp3.1/Revisaodnet.dll
+/home/leonardo/workspace/Revisaodnet/bin/Debug/netcoreapp3.1/Revisaodnet.pdb
+/home/leonardo/workspace/Revisaodnet/obj/Debug/netcoreapp3.1/Revisaodnet.csprojAssemblyReference.cache
+/home/leonardo/workspace/Revisaodnet/obj/Debug/netcoreapp3.1/Revisaodnet.AssemblyInfoInputs.cache
+/home/leonardo/workspace/Revisaodnet/obj/Debug/netcoreapp3.1/Revisaodnet.AssemblyInfo.cs
+/home/leonardo/workspace/Revisaodnet/obj/Debug/netcoreapp3.1/Revisaodnet.csproj.CoreCompileInputs.cache
+/home/leonardo/workspace/Revisaodnet/obj/Debug/netcoreapp3.1/Revisaodnet.dll
+/home/leonardo/workspace/Revisaodnet/obj/Debug/netcoreapp3.1/Revisaodnet.pdb
+/home/leonardo/workspace/Revisaodnet/obj/Debug/netcoreapp3.1/Revisaodnet.genruntimeconfig.cache
